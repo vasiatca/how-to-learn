@@ -115,7 +115,7 @@
   font-size: 18px;
   font-weight: normal;
   color: #2f80ed;
-  margin-top: 0;
+  margin: 0;
 }
 
 .two-columns__paragraph {
@@ -171,15 +171,13 @@
 
 .table {
   width: 1100px;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 0;
-  margin-bottom: 0;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
   list-style-type: none;
-  padding-bottom: 0;
+  margin: 0 auto;
+  padding: 0;
+  
 }
 
 .table__cell {
@@ -191,7 +189,7 @@
 .table__cell_theme_dark {
   width: 200px;
   color: white;
-  padding-top: 80px;
+  margin-top: 80px;
   z-index: 10;
 }
 
