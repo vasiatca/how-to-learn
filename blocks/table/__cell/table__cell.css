@@ -3,10 +3,3 @@
   height: auto;
   margin-top: 60px;
 }
-
-.table__cell_theme_dark {
-  width: 200px;
-  color: white;
-  margin-top: 80px;
-  z-index: 10;
-}
