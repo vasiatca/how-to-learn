@@ -6,4 +6,4 @@
 - CSS
 - БЭМ.
 
-- [Ссылка на проект](https://vasiatca.github.io/how-to-learn/index.html)
+- [Ссылка на проект](https://vasiatca.github.io/how-to-learn/)
